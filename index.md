@@ -27,12 +27,12 @@
                             孙国旭 wade-ui
                         </p>
                         <div class="col-6">
-                            <p class="phone">135 1111 8888</p>
-                            <p class="education">xxx 大学 | 本科</p>
+                            <p class="phone">15369870026</p>
+                            <p class="education">石家庄铁道大学 | 本科</p>
                         </div>
                         <div class="col-6">
-                            <p class="email">XXXXXX@sina.com</p>
-                            <p class="profession">计算机科学与技术</p>
+                            <p class="email"3191932797@qq.com</p>
+                            <p class="profession">软件工程</p>
                         </div>
                     </div>
                 </div>
@@ -54,12 +54,12 @@
                                 熟练语言
                             </p>
                             <div class="lang">
-                                <lable>LINUX</lable>
+                                <lable>JAVA</lable>
                                 <lable>PYTHON</lable>
-                                <lable>JQUERY</lable>
+                                <lable>C</lable>
                                 <lable>HTML</lable>
                                 <lable>PHP</lable>
-                                <lable>PHOTOSHOP</lable>
+                                <lable>C++</lable>
                             </div>
                         </div>
                     </div>
@@ -73,7 +73,7 @@
                     <div class="col-3-abs" id="project-0">
                         <div class="project-content"> <img src="./static/image/LOGO1.png" alt="">
                             <p class="project-title">Paxxal后台搭建</p>
-                            <p class="create-time">2014.8 - 2014.9</p>
+                            <p class="create-time">2020.8 - 2020.9</p>
                             <p class="decription"> 该作品使用了MVC设计模式，SqlServer数据库，Servlet、jquery ajax的技术上制作的一个动态购物网站，实现了在数据库查询出商品显示在页面上，实现了购物车与购买功能，并对数据库进行相应操作。 </p>
                         </div>
                         <div class="link-to">
@@ -84,7 +84,7 @@
                     <div class="col-3-abs" id="project-1">
                         <div class="project-content"> <img src="./static/image/LOGO2.png" alt="">
                             <p class="project-title">聊天应用开发</p>
-                            <p class="create-time">2014.8 - 2014.9</p>
+                            <p class="create-time">2021.4 - 2021.6</p>
                             <p class="decription"> 该作品使用了MVC设计模式，SqlServer数据库，Servlet、jquery ajax的技术上制作的一个动态购物网站，实现了在数据库查询出商品显示在页面上，实现了购物车与购买功能，并对数据库进行相应操作。 </p>
                         </div>
                         <div class="link-to">
@@ -95,7 +95,7 @@
                     <div class="col-3-abs endline" id="project-2">
                         <div class="project-content"> <img src="./static/image/LOGO3.png" alt="">
                             <p class="project-title">购物商城前端搭建</p>
-                            <p class="create-time">2014.8 - 2014.9</p>
+                            <p class="create-time">2021.5 - 2021.6</p>
                             <p class="decription"> 该作品使用了MVC设计模式，SqlServer数据库，Servlet、jquery ajax的技术上制作的一个动态购物网站，实现了在数据库查询出商品显示在页面上，实现了购物车与购买功能，并对数据库进行相应操作。 </p>
                         </div>
                         <div class="link-to">
@@ -152,8 +152,8 @@
                     <img class="peasonal-image" src="./static/image/peason.png" alt="">
                     <div class="item">
                         <p class="name">孙国旭 wade-ui</p>
-                        <p class="phone">135 1111 8888</p>
-                        <p class="email">XXXXXX@sina.com</p>
+                        <p class="phone">15369870026</p>
+                        <p class="email"3191932797@qq.com</p>
                     </div>
                     <div class="item contact">
                         <div class="col-3 qrcode">
@@ -183,4 +183,4 @@
         </footer>
     </div>
 </body>
-
+</html>
